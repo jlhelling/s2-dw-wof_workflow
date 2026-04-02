@@ -14,7 +14,7 @@ Helling, L., Singh, S., Rey, L., Parmentier, H., Messager, M. L., Piégay, H., B
 
 ***To refer to the workflow itself:***
 
-Helling, L. (2026). S2-DW-WOF workflow (v1.0.0). Zenodo.
+Helling, L. (2026). S2-DW-WOF workflow (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.19392257](https://doi.org/10.5281/zenodo.19392257)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19392257.svg)](https://doi.org/10.5281/zenodo.19392257)
 
