@@ -10,7 +10,7 @@ leo.helling@ens-lyon.fr UMR 5600 – Environment, Ville, Société (EVS) lab Cen
 
 ***Please refer to the following publication for any data created from this workflow:***
 
-Helling, L., Singh, S., Rey, L., Parmentier, H., Messager, M. L., Piégay, H., Belletti, B. (2026). Mapping water in a Dynamic World: Annual Water Occurrence Frequencies from full Sentinel-2 time series (in preparation)
+Helling, L., Singh, S., Rey, L., Parmentier, H., Messager, M. L., Piégay, H., Belletti, B. (2026). Mapping water in a Dynamic World: A hybrid landcover-NDWI approach enhances surface water dynamics characterization from Sentinel-2 (in preparation)
 
 ***To refer to the workflow itself:***
 
